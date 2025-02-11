@@ -1,1 +1,22 @@
 /* your code */
+table{
+	background-color: wheat;
+	padding:10px;
+	border-radius:10px
+}
+th{
+	padding:10px 45px 10px 10px
+}
+td{
+	/* background-color:blue; */
+	padding:15px 10px;
+	border:none;
+}
+.straw{
+	color:red;
+	background-color:white;
+}
+.straw2{
+	color:red;
+	background-color:white;
+}
